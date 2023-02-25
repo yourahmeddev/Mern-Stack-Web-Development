@@ -1,0 +1,22 @@
+body{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    background-color:#023047;
+}
+article{
+    background-color: #ffb703;
+    padding: 40px;
+    margin: 40px;
+}
+.btn{
+    background-color:#023047;
+    color: #ffffff;
+    border: none;
+    padding: 15px 30px 15px 30px;
+    font-size: 30px;
+    margin-top: 30px;
+    cursor: pointer;
+    border-radius: 5px;
+}
