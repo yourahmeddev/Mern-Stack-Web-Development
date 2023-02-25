@@ -1,0 +1,31 @@
+/* * {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+} */
+
+p:hover{
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 1em;
+    font-style: italic;
+}
+
+body {
+  font-size: 24px;
+}
+/* #first, #second{
+    color:blue;
+}
+#first>h2, #second>h2, #third>h2{
+    color:blue;
+}
+.red {
+  color: red;
+  font-family: monospace;
+}
+.highlight {
+  background-color: yellow;
+  font-weight: 600;
+  font-style: italic;
+} */
+/* Lets Talk about Specficity order */
+/* id>class>element */
